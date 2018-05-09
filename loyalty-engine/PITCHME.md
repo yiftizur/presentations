@@ -1,4 +1,5 @@
 
+---?image=assets/gitpitch-audience.jpg
 # Business Bookers Backenders
 
 ### Loyalty Engine
@@ -27,4 +28,4 @@
 
 ![LoyaltyEngine](assets/LoyaltyEngine.png)
 
----?image=assets/gitpitch-audience.jpg
+
