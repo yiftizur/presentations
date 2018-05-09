@@ -1,10 +1,10 @@
 
----?image=assets/gitpitch-audience.jpg
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 # Business Bookers Backenders
 
 ### Loyalty Engine
 
----?image=assets/gitpitch-audience.jpg
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 
 ## Motivation
 
@@ -12,7 +12,10 @@
 - Requires a lot of duplicating code and date  <!-- .element: class="fragment" -->
 - No easy way of monitoring, debugging or querying loyalty programs state <!-- .element: class="fragment" -->
 
----?image=assets/gitpitch-audience.jpg
+---
+
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
+
 
 ## Proposed Solution
 
@@ -22,10 +25,9 @@
  - allow monitoring (logs/metrics) for all actions regarding loyalty programs
  - Provide an API for querying state of loyalty programs and owners
 
----?image=assets/gitpitch-audience.jpg
+---
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 
 <p><span class="menu-title slide-title">High Level Design</span></p>
 
 ![LoyaltyEngine](assets/LoyaltyEngine.png)
-
-
