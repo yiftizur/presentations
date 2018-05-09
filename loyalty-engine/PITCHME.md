@@ -1,11 +1,11 @@
 
-<!-- .slide: data-background-image="./assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 # Business Bookers Backenders
 
 ### Loyalty Engine
 
 ---
-<!-- .slide: data-background-image="./assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 
 
 ## Motivation
@@ -16,7 +16,7 @@
 
 ---
 
-<!-- .slide: data-background-image="./assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 
 
 ## Proposed Solution
@@ -28,7 +28,7 @@
  - Provide an API for querying state of loyalty programs and owners
 
 ---
-<!-- .slide: data-background-image="./assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
+<!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
 
 <p><span class="menu-title slide-title">High Level Design</span></p>
 
