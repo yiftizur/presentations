@@ -22,10 +22,10 @@
 ## Proposed Solution
 
 - Build a new generic LoyaltyEngine™ that will:
- - alow multiple loyalty programs in parallel
- - be scalable to allow increse in traffic and load, as well as experimentation
- - allow monitoring (logs/metrics) for all actions regarding loyalty programs
- - Provide an API for querying state of loyalty programs and owners
+ - alow multiple loyalty programs in parallel <!-- .element: class="fragment" -->
+ - be scalable to allow increse in traffic and load, as well as experimentation <!-- .element: class="fragment" -->
+ - allow monitoring (logs/metrics) for all actions regarding loyalty programs <!-- .element: class="fragment" -->
+ - Provide an API for querying state of loyalty programs and owners <!-- .element: class="fragment" -->
 
 ---
 <!-- .slide: data-background-image="assets/gitpitch-audience.jpg" data-background-size="100% 100%" data-background-color=" " data-state="bg-img-opacity-15" -->
