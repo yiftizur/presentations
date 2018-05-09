@@ -11,7 +11,7 @@
 ## Motivation
 
 - Current solution does not allow easy scaling of loyalty programs  <!-- .element: class="fragment" -->
-- Requires a lot of duplicating code and date  <!-- .element: class="fragment" -->
+- Requires duplicating code and data  <!-- .element: class="fragment" -->
 - No easy way of monitoring, debugging or querying loyalty programs state <!-- .element: class="fragment" -->
 
 ---
